@@ -30,7 +30,7 @@ export default createConfig({
       network: "baseSepolia",
       abi: FactoryABI,
       address: "0x862E06f0211a99f3d80cF69c750b58388D240604",
-      startBlock: 32763436,
+      startBlock: 32775557,
     },
     Organization: {
       network: "baseSepolia",
@@ -42,7 +42,7 @@ export default createConfig({
         )!,
         parameter: "organization",
       }),
-      startBlock: 32763436,
+      startBlock: 32775557,
     },
   },
 });
