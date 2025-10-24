@@ -21,8 +21,8 @@ export default createConfig({
           retryDelay: 1000,
         }),
       ]),
-      maxRequestsPerSecond: 3,
-      pollingInterval: 2000,
+      // maxRequestsPerSecond: 3,
+      // pollingInterval: 2000,
     },
   },
   contracts: {
